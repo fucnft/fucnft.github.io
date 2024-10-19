@@ -1,0 +1,5 @@
+#baseURL = "https://fucnft.github.io/"
+baseURL = "https://feralholding.com/"
+languageCode = "en-us"
+title = "FUC N NFT"
+theme = "dimension"
